@@ -8,7 +8,7 @@
 </p>
 <br>
 
-# Hadoop MapReduce RS-Join and Replicated Join Demo
+# Spark Demo for working with Joins, RDDs, Spark-SQL in Scala
 (Coded for Homework-3 Assignment)
 
 ## Author
